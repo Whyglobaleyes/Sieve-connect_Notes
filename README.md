@@ -28,12 +28,14 @@ https://github.com/philpennock/sieve-connect
 
 # TERMINAL COMMANDS
 ------------------
+
 > cd ~/emailSettings
 > sieve-connect -s mail.gandi.net -p 4190 -u _<EMAIL_USER>_  
-================================================================================
+
 
 # SIEVE HELP
 ------------
+
 activate ..... <script> -- set the currently used script
 checkscript .. <filename> -- check script on the server
 deactivate ... turn off sieve processing
