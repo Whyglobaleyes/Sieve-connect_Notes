@@ -1,7 +1,7 @@
 # Sieve-connect_Notes
 
 ## Sieve
-A language/ protocol used by email servers to determine **`filters`** to be applied to email messages that are then **filed**/ _**actioned**_.
+A language/ protocol used by email servers to determine `filters` to be applied to email messages that are then `filed`/ `actioned`.
 
 ##### general
 https://en.m.wikipedia.org/wiki/Sieve_(mail_filtering_language)
