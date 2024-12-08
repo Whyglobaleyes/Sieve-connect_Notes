@@ -1,4 +1,4 @@
-# INTERACTIVE PROMPT
+# SIEVE-CONNECT INTERACTIVE PROMPT
 
 | COMMAND			                      | ACTION |
 | -------           			          | ------ |
@@ -19,6 +19,8 @@
 | upload `filename` [`scriptname`]  | put script on server :: aka: put |
 | view `script`       				       | show contents of script :: aka: more page show |
 
+
+https://github.com/Whyglobaleyes/Sieve_Notes
 
 ------------
 
