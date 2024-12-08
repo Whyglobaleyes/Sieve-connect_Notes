@@ -35,7 +35,7 @@ https://github.com/Whyglobaleyes/Sieve_Notes
 
 ------------
 
-##### SOURCE OF SIEVE CONNECT 
+##### SOURCE FOR SIEVE CONNECT 
 https://github.com/philpennock/sieve-connect
 
 
