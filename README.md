@@ -5,6 +5,12 @@
 A language/ protocol used by email servers to determine `filters` to be applied to email messages that are then `filed`/ `actioned` .
 
 
+### General Syntax
+
+### Available Filters 
+
+### Available Actions 
+
 ##### References
 1. https://en.m.wikipedia.org/wiki/Sieve_(mail_filtering_language)
 2. https://web.archive.org/web/20041126062029/http://www.cyrusoft.com/sieve/
