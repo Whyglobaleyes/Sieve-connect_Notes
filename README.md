@@ -46,9 +46,13 @@ https://github.com/philpennock/sieve-connect
 ##### GANDI INFO 
 
 If you do need to provide connection information use the following:
+
 Host: mail.gandi.net
+
 Port: 4190
+
 Login: Your full email address, such as yourname@example.com
+
 Password: The password for the provided email address
 
 
