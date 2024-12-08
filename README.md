@@ -12,6 +12,8 @@ https://github.com/philpennock/sieve-connect
 
 # SIEVE HELP
 
+| COMMAND | ACTION |
+| ------- | ------ |
 | activate | <script> -- set the currently used script |
 | checkscript  | <filename> -- check script on the server |
 | deactivate  | turn off sieve processing |
