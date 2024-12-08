@@ -20,9 +20,6 @@
 | view `script`       				       | show contents of script :: aka: more page show |
 
 
-https://github.com/Whyglobaleyes/Sieve_Notes
-
-------------
 
 
 
@@ -31,7 +28,14 @@ https://github.com/Whyglobaleyes/Sieve_Notes
 > 
 > sieve-connect -s mail.gandi.net -p 4190 -u _<EMAIL_USER>_  
 
-##### SOURCE 
+
+### SYNTAX FOR THE SIEVE FILE
+
+https://github.com/Whyglobaleyes/Sieve_Notes
+
+------------
+
+##### SOURCE OF SIEVE CONNECT 
 https://github.com/philpennock/sieve-connect
 
 
