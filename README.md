@@ -52,10 +52,11 @@ man .......... see docs
 quit ......... goodbye! :: aka: bye exit logout
 upload ....... <filename> [<scriptname>] -- put script on server :: aka: put
 view ......... <script> -- show contents of script :: aka: more page show
-================================================================================
+
 
 #### GANDI INFO 
 ------------
+
 If you do need to provide connection information use the following:
 Host: mail.gandi.net
 Port: 4190
