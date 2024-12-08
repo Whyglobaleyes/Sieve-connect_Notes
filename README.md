@@ -1,7 +1,4 @@
 # INTERACTIVE PROMPT
-# SIEVE HELP 
-
-
 
 | COMMAND			                      | ACTION |
 | -------           			          | ------ |
@@ -27,7 +24,7 @@
 
 
 
-# TERMINAL COMMANDS TO INITIATE INTERACTIVE PROMPT
+### TERMINAL COMMANDS TO INITIATE INTERACTIVE PROMPT
 > cd ~/sieveEmailSettings
 > 
 > sieve-connect -s mail.gandi.net -p 4190 -u _<EMAIL_USER>_  
@@ -41,7 +38,6 @@ https://github.com/philpennock/sieve-connect
 
 
 ##### GANDI INFO 
-------------
 
 If you do need to provide connection information use the following:
 Host: mail.gandi.net
